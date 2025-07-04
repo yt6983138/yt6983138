@@ -12,10 +12,10 @@
 A student who likes to coding with C#, mostly backend. <br/>
 I like to play osu mania, Phigros, and minecraft tho i havent touched it for like half a year lmao <br/>
 Status: <br/>
-6k 3 Dan pass (96.25 malody) <br/>
+6k 7 Dan pass (96.27 osu) <br/>
 7k normal 7 pass (90.65 osu) <br/>
 4k 3 dan pass (96.25 malody) <br/>
-phigros 15.49 <br/>
+phigros 15.634 <br/>
 ### Social media
 My discord server - https://discord.gg/FAzYQYVETv <br/>
 My discord username - `._.69.429._.`

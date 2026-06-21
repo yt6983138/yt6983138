@@ -54,4 +54,4 @@ jobs:
           plugin_wakatime_repositories_visibility: public
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: @e940ee1e-bf6e-423c-9de2-4144700cfd4e
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}

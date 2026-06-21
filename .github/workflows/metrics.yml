@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -28,7 +28,7 @@ jobs:
           # Options
           user: yt6983138
           template: classic
-          base: activity, repositories
+          base: repositories, metadata
           base_indepth: yes
           config_timezone: Asia/Taipei
           plugin_code: yes
